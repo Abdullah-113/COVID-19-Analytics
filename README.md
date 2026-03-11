@@ -307,6 +307,12 @@ The system converts technical metrics into **clear, non-technical public health 
 
 ---
 
+# 📊 Dashboard Preview
+
+
+
+---
+
 # 💼 Business & Policy Impact
 
 This project demonstrates how analytical dashboards can support **public health decision-making**.
